@@ -1,0 +1,6 @@
+{
+  "name": "StudyLoop – AI Study Assistant",
+  "description": "Turn your study notes into interactive AI quizzes, track your quiz scores, and chat with a notes-grounded AI study assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
